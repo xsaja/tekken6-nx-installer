@@ -1,0 +1,31 @@
+{
+  "title": "Tekken 6",
+  "package": "tekken6-nx",
+  "nro": "tekken6-nx.nro",
+  "shaders": true,
+  "asis": [
+    ".*"
+  ],
+  "min_pack_size": 4096,
+  "zxc": [],
+  "lz4": [],
+  "skip": [
+    "\\$SystemUpdate/.*",
+    "AvatarAssetPack",
+    "nxeart"
+  ],
+  "needs": [
+    "DATA30[1-9]\\.BIN",
+    "DATA31[0-9]\\.BIN",
+    "DATA320\\.BIN",
+    "DATA3[0-9][0-9]\\.IDX",
+    "DINF_300\\.BIN"
+  ],
+  "dlc": false,
+  "vfs_index": false,
+  "texts": {
+    "game": "Your Xbox 360 disc of Tekken 6 (Europe, Rev 1) as an <code>.iso</code>, or the folder it was extracted to (with <code>default.xex</code> and <code>DATA301.BIN</code>-<code>DATA320.BIN</code>).",
+    "settings": "The game writes its settings file, <code>tekken6.toml</code>, at its first start.",
+    "footer": "Tekken is a trademark of Bandai Namco Entertainment. Not affiliated with or endorsed by Bandai Namco, Microsoft or Nintendo."
+  }
+}

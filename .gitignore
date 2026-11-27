@@ -1,0 +1,12 @@
+# renut_nx_ultimate_installer: local tooling and test outputs (game data never belongs here)
+.claude/
+__pycache__/
+*.log
+node_modules/
+wasm/src/*/build/
+test/out_*
+out/
+*.lz4b
+*.zip
+# Pyodide's standard library: the page loads it (blur-nx-installer de297ce found it never committed: shaders failed)
+!vendor/pyodide/python_stdlib.zip
