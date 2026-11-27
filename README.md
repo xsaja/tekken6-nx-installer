@@ -5,6 +5,8 @@ The installer page of [tekken6-nx](https://github.com/xsaja/tekken6-nx), the nat
 `tekken6-nx.zip`, ready to extract to the root of the SD card. Everything runs in your browser: the game files never
 leave your computer.
 
+**Open it at https://xsaja.github.io/tekken6-nx-installer/** (Chrome or Edge on a computer).
+
 It is [renut_nx_ultimate_installer](https://github.com/ChanseyIsTheBest/renut_nx_ultimate_installer) by
 ChanseyIsTheBest (the page of the ports made from the ultimate base; its README is
 [docs/renut_nx_ultimate_installer.md](docs/renut_nx_ultimate_installer.md)) with Tekken 6's `game.json` and the changes
