@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "builds": [
     {
       "edition": "Xbox 360 disc",
       "xex_sha256": "ee138a4fe8d32a0edc131451377f4377041a49626153fa992db24f5420a7f15c",
       "nro": "tekken6-nx.nro",
-      "nro_sha256": "b489861a3d3c214cd66f925befad1bf6bce3be961ff54c9227d6856751c7f1ec",
+      "nro_sha256": "8b01828e689836ed779503bb835efddf8b32a1102f2e1d5fae4078a1501fa6f0",
       "game_files": {
         "DATA301.BIN": 227490376,
         "DATA301.IDX": 16992,
